@@ -2,7 +2,7 @@
 
 The pet store is composed of a backend created using Spring-Boot.  The front-end is written in Angular.
 
-## Building
+## Building project
 
 ### Pet Server
 The server is a maven project and can be built by executing the maven build at the root of the project.
